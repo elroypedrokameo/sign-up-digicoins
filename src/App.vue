@@ -123,7 +123,7 @@
 }
 
 .form-input {
-  margin: 20px 0 0 40px;
+  margin: 10px 0 0 40px;
 }
 
 .form-input p {
@@ -189,6 +189,7 @@
 .user-agreements {
   display: flex;
   gap: 15px;
+  margin: 4px 0;
 }
 button {
   background: linear-gradient(135deg, #02C3BD 0%, #4062BB 100%);
