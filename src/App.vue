@@ -7,14 +7,14 @@
   <div class="container">
     <div class="section-ilustration">
       <div class="navbar-left">
-        <img src="./assets/logo.svg" alt="">
-        <img src="./assets/Digicoins.svg" alt="">
+        <img src="./assets/logo.svg" alt="logo">
+        <img src="./assets/Digicoins.svg" alt="digicoins">
       </div>
       <div class="container-illustration">
         <img
           class="illustration-img"
           src="./assets/illustration-signup.png"
-          alt=""
+          alt="illustration-img"
         >
       </div>
     </div>
@@ -22,7 +22,7 @@
       <div class="navbar-right">
         <p>EN/USD</p>
         <span>|</span>
-        <img src="./assets/dark-light.svg" alt="">
+        <img src="./assets/dark-light.svg" alt="dark-light">
       </div>
       <div class="user-have-account">
         <p>Already have an account? <span class="login"><a href="/login">Login</a></span></p>
@@ -50,7 +50,7 @@
           </div>
           <div class="referal-id">
             <p>Referal ID (Optional)</p>
-            <img src="./assets/drop-down.svg" alt="">
+            <img src="./assets/drop-down.svg" alt="drop-down">
           </div>
           <div class="user-agreements">
             <input type="checkbox">
