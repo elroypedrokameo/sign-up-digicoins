@@ -184,6 +184,12 @@
 }
 .referal-id img {
   margin-top: 10px;
+  cursor: pointer;
+}
+
+.referal-id p:hover {
+  cursor: pointer;
+  color: #02C3BD;
 }
 
 .user-agreements {
